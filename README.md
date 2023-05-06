@@ -2,11 +2,6 @@
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=Razorbacky&theme=blueberry&show_icons=true">
 </p>
 
-<!-- 언어 사용 순위 -->
-<p align="center">
-<img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razorbacky">
-</p>
-
 <h2 align="center">관심 있거나 공부하는 것 </h2>
 
 <p align="center">
