@@ -1,6 +1,6 @@
 # Razorbacky 24.06.06.
 
-언어 : [English](README.md)
+언어 : [English](READMEE_EN.md)
 
 ---
 
