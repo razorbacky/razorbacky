@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center" style="font-size:2.5em"><strong>인간은 항상 앞으로 전진해야 한다</strong></p>
+<p align="center" style="font-size:36px"><strong>인간은 항상 앞으로 전진해야 한다</strong></p>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=razorbacky&count_private=true&show_icons=true&theme=tokyonight">

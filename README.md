@@ -4,7 +4,7 @@ Language : [KOREAN(한글)](README_KO.md)
 
 ---
 
-<p align="center" style="font-size:2.5em"><strong>Human Being Must Always Move Forward</strong></p>
+<p align="center" style="font-size:36px"><strong>Human Being Must Always Move Forward</strong></p>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=razorbacky&count_private=true&show_icons=true&theme=tokyonight">
