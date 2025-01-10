@@ -15,9 +15,9 @@ Language : [KOREAN(한글)](README_KO.md)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,html,css,js,dart,flutter"/>
+    <img src="https://skillicons.dev/icons?i=rust"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=windows,linux,nginx,vscode,vim">
+    <img src="https://skillicons.dev/icons?i=windows,linux,nginx,vscode,vim,rustrover">
   </a>
 </p>
 
