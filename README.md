@@ -17,7 +17,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,go"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=windows,linux,nginx,vscode,vim">
+    <img src="https://skillicons.dev/icons?i=windows,linux,arch,bash,nginx,postgres,vscode,neovim,docker,obsidian">
   </a>
 </p>
 
